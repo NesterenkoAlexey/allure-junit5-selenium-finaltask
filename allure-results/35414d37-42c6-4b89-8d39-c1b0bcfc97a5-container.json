@@ -1,0 +1,1 @@
+{"uuid":"35414d37-42c6-4b89-8d39-c1b0bcfc97a5","name":"Проверка на заполнение вкладов","children":["a3841372-5dab-4a2e-b0da-4bca1ba3d965"],"befores":[{"name":"beforeEach","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1629539427819,"stop":1629539431939}],"afters":[],"links":[],"start":1629539427767,"stop":1629539442816}
